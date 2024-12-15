@@ -1,4 +1,10 @@
-# Welcome to your Expo app 👋
+# Sticker Smasher
+
+Following the tutorial by Expo to learn React Native.
+
+View the tutorial: [Expo React Native Tutorial](https://docs.expo.dev/tutorial/introduction/)
+
+## Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
